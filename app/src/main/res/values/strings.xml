@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView2</string>
+    <string-array name="teams" >
+        <item>Fenerbahçe </item>
+        <item>Beşiktaş </item>
+        <item>Galatasaray</item>
+        <item>AdanaDemirspor</item>
+        <item>Barcelona</item>
+    </string-array>
+
+
+</resources>
